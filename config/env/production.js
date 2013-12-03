@@ -1,5 +1,5 @@
 module.exports = {
-    db: "mongodb://localhost/mean",
+    db: "mongodb://meanadmin:password123@dharma.mongohq.com:10099/app19893934",
     app: {
         name: "MEAN - A Modern Stack - Production"
     },
